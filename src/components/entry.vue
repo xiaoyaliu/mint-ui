@@ -13,6 +13,7 @@
     <mt-cell title="Progress"  is-link></mt-cell>
     <mt-cell title="Picker"  is-link></mt-cell>
     <mt-cell title="Datetime Picker"  is-link></mt-cell>
+    <mt-cell title="Index List"  is-link></mt-cell>
   </div>
 </template>
 
